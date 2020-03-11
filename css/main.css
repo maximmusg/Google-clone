@@ -34,3 +34,27 @@ main{
     border: none;
     outline: none;
 }
+
+.main-input-container:hover{
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e500;
+}
+
+.search-icon{
+    background-image: url('')
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+
+.micro-icon{
+    background-image: url('https://www.pinclipart.com/picdir/middle/32-322562_open-google-microphone-icon-clipart.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
